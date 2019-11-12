@@ -13,3 +13,7 @@
   - Able to create a properly named (file and class) C# file.
   - Able to add a comment that accurately describes the code.
   - Properly placed and syntactially correct C# code to move the vehicle at a constant rate.
+  
+Coding conventions:
+  - Captialization
+  - Naming
